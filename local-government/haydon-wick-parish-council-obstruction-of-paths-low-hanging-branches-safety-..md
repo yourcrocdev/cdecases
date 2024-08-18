@@ -71,7 +71,7 @@ RI (not shown - case officer)\
 
 ***
 
-Case: my next door neighbour is blind, and today he cut himself on low hanging branches. The council have been reminded several times that there a blind person living their and about their duty of care, and making reasonable adjustments to those with disabilities. I went out and cut down the obstacles and have submitted a case to them.\
+Original Text (15th) -> my next door neighbour is blind, and today he cut himself on low hanging branches. The council have been reminded several times that there a blind person living their and about their duty of care, and making reasonable adjustments to those with disabilities. I went out and cut down the obstacles and have submitted a case to them.\
 
 
 <details>
