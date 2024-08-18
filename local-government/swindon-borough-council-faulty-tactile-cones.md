@@ -80,4 +80,6 @@ My next door neighbour is blind and relies on tactile cones when crossing busy r
 
 ### About this case:
 
-My next door neighbour is blind and relies on tactile cones when crossing busy roads. In a survey we conducted, we found that 50% of cones (9/18) were either faulty or did not work at all. We've contacted Swindon Borough Council and asked them to fix them and routinely monitor them for faults.
+My next door neighbour is blind and relies on tactile cones when crossing busy roads. In a survey we conducted, we found that 50% of cones (9/18) were either faulty or did not work at all. We've contacted Swindon Borough Council and asked them to fix them and routinely monitor them for faults.\
+\
+Ref: WILTS-02
