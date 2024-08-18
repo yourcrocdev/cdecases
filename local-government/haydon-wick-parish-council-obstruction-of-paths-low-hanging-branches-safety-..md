@@ -9,23 +9,40 @@ coverY: 0
 
 
 {% hint style="success" %}
-This case is currently active.
+This case is currently active. We're awaiting the council's response.
 {% endhint %}
 
 ***
 
-**Latest update (16th) -> letter hand delivered to Haydon Wick Parish Council Offices. I'm now awaiting their reply. As it was submitted on a Friday, there could be delays due to the weekend. I expect it to be looked at on Monday. The next follow up is the 23 August.**\
-\
-\
-16/08/24 -> Letter to be hand delivered to Haydon Wick Parish Council **today**. Once it's been delivered, you'll see it here as latest update. \
-
-
-15/08/24  -> Letter of complaint completed. I will most likely deliver it tomorrow by hand.\
-
+**We next expect an update on this case by: 23 August.**
 
 <details>
 
-<summary>Ryan -> HWPC (letter)</summary>
+<summary>(Latest): Letter delivered by hand - 16 August</summary>
+
+**Latest update (16th) -> letter hand delivered to Haydon Wick Parish Council Offices. I'm now awaiting their reply. As it was submitted on a Friday, there could be delays due to the weekend. I expect it to be looked at on Monday. The next follow up is the 23 August.**
+
+</details>
+
+<details>
+
+<summary>Letter to be delivered today - 16 August</summary>
+
+16/08/24 -> Letter to be hand delivered to Haydon Wick Parish Council **today**. Once it's been delivered, you'll see it here as latest update.&#x20;
+
+</details>
+
+<details>
+
+<summary>Letter to be delivered tomorrow - 15 August</summary>
+
+We're delivering the letter tomorrow.&#x20;
+
+</details>
+
+<details>
+
+<summary>Letter completed: Ryan -> HWPC - 15 August</summary>
 
 Re: Obstruction of paths by hanging and low-level branches – causing safety hazards.\
 \
@@ -69,15 +86,28 @@ RI (not shown - case officer)\
 
 </details>
 
-***
-
-Original Text (15th) -> my next door neighbour is blind, and today he cut himself on low hanging branches. The council have been reminded several times that there a blind person living their and about their duty of care, and making reasonable adjustments to those with disabilities. I went out and cut down the obstacles and have submitted a case to them.\
-
-
 <details>
 
-<summary>View Original  Evidence</summary>
+<summary>Photo evidence uploaded - 15 August</summary>
 
 <img src="../.gitbook/assets/evidence.png" alt="" data-size="original"> click on the image if it's too small
 
 </details>
+
+<details>
+
+<summary>Case created and in draft - 15 August</summary>
+
+Original Text (15th) -> my next door neighbour is blind, and today he cut himself on low hanging branches. The council have been reminded several times that there a blind person living their and about their duty of care, and making reasonable adjustments to those with disabilities. I went out and cut down the obstacles and have submitted a case to them.
+
+</details>
+
+***
+
+### About this case:
+
+My next door neighbour is blind, and today he cut himself on low hanging branches. The council have been reminded several times that there a blind person living their and about their duty of care, and making reasonable adjustments to those with disabilities. I went out and cut down the obstacles and have submitted a case to them. I have asked for compensation for my efforts.
+
+\
+
+
