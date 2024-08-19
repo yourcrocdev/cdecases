@@ -14,7 +14,15 @@ This case is currently active. We're awaiting the council's response.
 
 <details>
 
-<summary>Latest: Letter delivered via online form - 18 August</summary>
+<summary>Latest: Our complaint is being investigated - 19 August</summary>
+
+Our case status has changed to being investigated
+
+</details>
+
+<details>
+
+<summary>Letter delivered via online form - 18 August</summary>
 
 We've submitted our letter via the online form. The council have quoted 10 working days - however this is the longest timeframe.
 
