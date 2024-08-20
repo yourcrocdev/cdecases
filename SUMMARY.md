@@ -2,7 +2,10 @@
 
 * [Welcome to the Case Centre.](README.md)
 
-## Local Government
+## Active Cases
 
-* [Swindon Borough Council - faulty tactile cones (Closed)](local-government/swindon-borough-council-faulty-tactile-cones.md)
-* [Haydon Wick Parish Council- Obstruction of paths - low hanging branches (safety) - (Active)](local-government/haydon-wick-parish-council-obstruction-of-paths-low-hanging-branches-safety-active.md)
+* [Haydon Wick Parish Council- Obstruction of paths - low hanging branches (safety)](active-cases/haydon-wick-parish-council-obstruction-of-paths-low-hanging-branches-safety.md)
+
+## Closed Cases
+
+* [Swindon Borough Council - faulty tactile cones](closed-cases/swindon-borough-council-faulty-tactile-cones.md)
