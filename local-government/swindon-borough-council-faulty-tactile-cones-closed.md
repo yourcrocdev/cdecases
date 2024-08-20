@@ -2,19 +2,25 @@
 icon: traffic-light-stop
 ---
 
-# Swindon Borough Council - faulty tactile cones
+# Swindon Borough Council - faulty tactile cones (Closed)
 
 
 
-{% hint style="success" %}
-This case is currently active. We're awaiting the council's response.
+{% hint style="info" %}
+This case was closed on 20 August. The council have concluded the complaint.
 {% endhint %}
-
-**We next expect an update on this case by: 25 August.**
 
 <details>
 
-<summary>Latest: Our complaint is being investigated - 19 August</summary>
+<summary><mark style="color:green;">Conclusion: they've fixed the faulty cones and informed us that they'll speak to their contractors so it doesn't happen again - 20th August</mark></summary>
+
+We're unable to show the full response to this case due to privacy reasons. However, the council have told us that they've been out and fixed the faulty cones, as well as speaking to their contractors to ensure these are checked in the future.&#x20;
+
+</details>
+
+<details>
+
+<summary>Our complaint is being investigated - 19th August</summary>
 
 Our case status has changed to being investigated
 
@@ -22,7 +28,7 @@ Our case status has changed to being investigated
 
 <details>
 
-<summary>Letter delivered via online form - 18 August</summary>
+<summary>Letter delivered via online form - 18th August</summary>
 
 We've submitted our letter via the online form. The council have quoted 10 working days - however this is the longest timeframe.
 
@@ -30,7 +36,7 @@ We've submitted our letter via the online form. The council have quoted 10 worki
 
 <details>
 
-<summary>Letter completed: Ryan -> SBC - 18 August</summary>
+<summary>Letter completed: Ryan -> SBC - 18th August</summary>
 
 To whom this may concern,
 
@@ -54,7 +60,7 @@ RI (not shown - lead case officer)
 
 <details>
 
-<summary>We've investigated them and are drafting a letter - 18 August</summary>
+<summary>We've investigated them and are drafting a letter - 18th August</summary>
 
 We found that 50% of cones did not work. We're currently drafting a letter to SBC. This will update soon.
 
@@ -62,7 +68,7 @@ We found that 50% of cones did not work. We're currently drafting a letter to SB
 
 <details>
 
-<summary>Our findings have been uploaded - 18 August</summary>
+<summary>Our findings have been uploaded - 18th August</summary>
 
 <img src="../.gitbook/assets/Scan_20240818.png" alt="" data-size="original">A circled X means it's faulty.
 
@@ -70,7 +76,7 @@ We found that 50% of cones did not work. We're currently drafting a letter to SB
 
 <details>
 
-<summary>We're investigating the reported faults - 18 August</summary>
+<summary>We're investigating the reported faults - 18th August</summary>
 
 We're currently out investigating the reported faults in the area reported.
 
@@ -78,7 +84,7 @@ We're currently out investigating the reported faults in the area reported.
 
 <details>
 
-<summary>Case created and in draft - 17 August</summary>
+<summary>Case created and in draft - 17th August</summary>
 
 My next door neighbour is blind and relies on tactile cones when crossing busy roads. In a survey we conducted, we found that 50% of cones (9/18) were either faulty or did not work at all. We've contacted Swindon Borough Council and asked them to fix them and routinely monitor them for faults.
 
