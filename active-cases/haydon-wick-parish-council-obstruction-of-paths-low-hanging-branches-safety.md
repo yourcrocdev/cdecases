@@ -4,17 +4,25 @@ cover: ../.gitbook/assets/branch.jpg
 coverY: 0
 ---
 
-# Haydon Wick Parish Council- Obstruction of paths - low hanging branches (safety).
+# Haydon Wick Parish Council- Obstruction of paths - low hanging branches (safety)
 
 
 
 {% hint style="success" %}
-This case is currently active. We're awaiting the council's response.
+This case is currently active. We're awaiting the outcome of the meeting.
 {% endhint %}
 
 ***
 
-**We next expect an update on this case by: 23 August.**
+**We next expect an update on this case by: 4 September.**
+
+<details>
+
+<summary>The council have responded. It will be discussed at a council meeting on September 3.</summary>
+
+
+
+</details>
 
 <details>
 
@@ -68,10 +76,7 @@ In addition, the Equality Act of 2010 imposes a duty for you to make reasonable 
 \
 Please note that if you fail to remove these obstacles in future or conduct checks (starting today) around your area looking for obstacles and they cause injury to me or my neighbour, I will seek legal action against you for the damages that arise from you not conducting your due diligence. In addition, if you fail to provide me with a reasonable conclusion to this case in a prompt manner, I will forward this complaint to:\
 \
-(a) – the Chairman of Swindon Borough Council (Jim Robbins),\
-(b) – the LGO (Local Government and Social Care Ombudsman).\
-\
-\
+(a) – the Chairman of Swindon Borough Council (Jim Robbins)\
 \
 I look forward to your prompt response to this matter.\
 \
