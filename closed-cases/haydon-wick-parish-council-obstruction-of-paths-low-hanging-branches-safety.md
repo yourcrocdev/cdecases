@@ -8,8 +8,8 @@ coverY: 0
 
 
 
-{% hint style="success" %}
-This case is currently active. We're awaiting the outcome of the meeting.
+{% hint style="info" %}
+This case was closed on 4th September.
 {% endhint %}
 
 ***
